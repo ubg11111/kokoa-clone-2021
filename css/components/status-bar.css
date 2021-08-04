@@ -30,35 +30,3 @@
   margin: 0px 5px;
 }
 
-.nav__link{
-  position: relative;
-  color: #2e263e;
-}
-
-.nav__notification{
-  background-color: tomato;
-  width: 30px;
-  height: 30px;
-  border-radius: 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
-  position:absolute;
-  left: 15px;
-  bottom: 15px;
-}
-
-.nav__radiusbtn{
-  background-color: tomato;
-  border-radius: 3px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 6px;
-  height: 6px;
-  position: absolute;
-  left: 30px;
-  bottom: 28px;
-}

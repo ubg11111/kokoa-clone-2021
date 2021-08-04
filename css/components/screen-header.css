@@ -6,6 +6,7 @@
   opacity: 90%;
   padding: var(--horizontal-space);
   margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 .screen-header__title{
@@ -13,6 +14,8 @@
   font-weight: 600;
 }
 
-.screen-header__icons{
-  margin-left: 400px;
+.screen-header__icons span{
+  position: relative;
+  margin-left: 30px;
 }
+
