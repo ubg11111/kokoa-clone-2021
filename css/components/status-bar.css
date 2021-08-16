@@ -1,5 +1,4 @@
 .status-bar{
-  position: fixed;
   top:0;
   width:100%;
   display: flex;
@@ -11,7 +10,7 @@
   width: 33%;
 }
 
-  .status-bar__column:first-child span{
+.status-bar__column:first-child span{
   margin-right: 5px;
 }
 
