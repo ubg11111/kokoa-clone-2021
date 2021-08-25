@@ -31,6 +31,10 @@
   color: #2e363e;
 }
 
+.nav__link .fa-search{
+  padding: 0px 5px;
+}
+
 @keyframes notificationAnimation {
   0%{
     transform: none;
